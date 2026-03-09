@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 
 Hi, I'm **Peter Buckingham** — a software developer focused on building **reliable, maintainable, and scalable software systems**.
 
