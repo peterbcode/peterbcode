@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**peterbcode/peterbcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Peter Buckingham**, a software developer focused on building reliable, maintainable, and scalable software systems.
 
-Here are some ideas to get you started:
+My work centers on developing web applications, exploring new technologies, and creating practical tools that solve real-world problems. I'm particularly interested in thoughtful software design, clean architecture, and continuously improving my engineering craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Technologies & Tools
+
+**Frontend**  
+HTML · CSS · JavaScript · React · Next.js · Tailwind CSS  
+
+**Backend**  
+Node.js · Express  
+
+**Databases**  
+MongoDB · MySQL  
+
+**Tools & Environment**  
+Git · Linux · REST APIs  
+
+---
+
+### 🔧 Areas of Focus
+
+- Software engineering principles and best practices  
+- Full-stack application development  
+- System architecture and scalability  
+- Security and system reliability  
+
+---
+
+### 📫 Connect With Me
+
+📧 **Email:** peterbuckingham177@gmail.com  
+📷 **Instagram:** https://instagram.com/peterbcode
