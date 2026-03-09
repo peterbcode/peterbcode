@@ -37,9 +37,6 @@ Git · Linux · REST APIs
 📷 https://instagram.com/peterbcode  
 💼 https://linkedin.com/in/peter-buckingham-01b343218/
 
----
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peterbapp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/peter-buckingham-01b343218/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:peterbuckingham177@gmail.com) 
 
 
