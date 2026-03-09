@@ -20,7 +20,6 @@ MongoDB · MySQL
 **Tools**  
 Git · Linux · REST APIs
 
----
 
 ## 🔧 Areas of Focus
 
@@ -29,7 +28,6 @@ Git · Linux · REST APIs
 - System architecture and scalability  
 - Security and system reliability  
 
----
 
 ## 🌐 Connect
 
